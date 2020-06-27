@@ -1,0 +1,453 @@
+
+.navbar-text
+{
+    margin-top: 25px;
+    font-size: 15px;
+}
+
+.form-control
+{
+    margin-top: 10px;
+    margin-right: 20px;
+    background: rgb(230, 228, 228);
+}
+.input-group
+{
+    width: 160px;
+    margin-right: 20px;
+}
+
+  .img-title{
+    position: absolute;
+    color: #fff;
+    text-align: justify;
+    left: 20px;
+    top: 80px;
+    font-weight: bold;
+  
+  }
+
+  .svemir
+  {
+    background-image: url("slike/filip4.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 150px;
+    color: white;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+
+  .svemir1
+  {
+    background-image: url("slike/filip3.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 150px;
+    color: white;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+
+
+  .mali
+  {
+    background: red;
+    color: white;
+    width: 75px;
+    height: 20px;
+    font-size: 13px;
+    padding: 2px;
+  }
+
+  .tekst
+  {
+    margin-top: 50px;
+    padding-left: 10px;
+  }
+
+  .tekst1
+  {
+    margin-top: 50px;
+    padding-left: 10px;
+  }
+
+
+  
+  .slike
+  {
+
+   background: url("slike/filip5.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+
+  }
+
+  .slike1
+  {
+
+   background: url("slike/filip6.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+    margin-top: 5px;
+
+  }
+
+  .slike2
+  {
+
+   background: url("slike/filip7.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+
+  }
+  .slike3
+  {
+
+   background: url("slike/filip8.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+    margin-top: 5px;
+
+  }
+
+  .slike4
+  {
+ 
+   background: url("slike/filip9.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+
+  }
+  .slike5
+  {
+
+   background: url("slike/filip10.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+    margin-top: 5px;
+
+  }
+
+  .slike6
+  {
+
+   background: url("slike/filip11.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+
+  }
+  .slike7
+  {
+
+   background: url("slike/filip12.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+    margin-top: 5px;
+  }
+
+  .linija
+  {
+    width: 100%;
+    height: 6px;
+    background: rgb(226, 221, 221);
+    margin-top: 8px;
+  
+  }
+  
+  .opetslike
+  {
+    background: url("slike/filip13.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+  }
+  .opetslike1
+  {
+    background: url("slike/filip14.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+  }
+  
+  .opetslike2
+  {
+    background: url("slike/filip15.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+  }
+  .opetslike3
+  {
+    background: url("slike/filip16.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+  }
+    
+  .opetslike4
+  {
+    background: url("slike/filip17.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+  }
+  
+  .opetslike5
+  {
+    background: url("slike/filip18.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+  }
+  .opetslike6
+  {
+    background: url("slike/filip19.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+  }
+  .opetslike7
+  {
+    background: url("slike/filip20.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+  }
+  .opetslike8
+  {
+    background: url("slike/filip21.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+  }
+  
+
+  .velika
+  {
+    background: url("slike/filip22.jpeg");
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+  }
+
+
+  .male
+  {
+    background: url("slike/filip23.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+  }
+  .male1
+  {
+    background: url("slike/filip24.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+  }
+  .male2
+  {
+    background: url("slike/filip25.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+  }
+
+  .balasevic
+  {
+    background: url("slike/filip26.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+  }
+
+  .balasevic1
+  {
+    background: url("slike/filip27.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+  }
+  .opa
+  {
+    background: red;
+    color: white;
+    width: 55px;
+    height: 20px;
+    font-size: 13px;
+    padding: 2px;
+    font-weight: bold;
+  }
+
+  .djoka
+  {
+    background: url("slike/filip28.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+
+  }
+
+  .djoka1
+  {
+    background: url("slike/filip29.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70px;
+
+  }
+
+  .box
+  {
+    width: 310px;
+    height: 240px;
+    background: rgb(243, 241, 241);
+  }
+
+  .linijica
+  {
+    width: 100%;
+    height: 8px;
+    background: rgb(223, 220, 220);;
+    margin-top: 5px;
+  }
+  .mira
+  {
+    width: 100%;
+    height: 7px;
+    background:rgb(223, 220, 220);; ;
+    margin-top: 7px;
+  }
+
+
+  ul
+{
+    list-style-type:  none;
+}
+ul li
+{
+    display: inline-block;
+    width: 20%;
+    background-color: #14a4f4;
+    height: 40px;
+}
+ul li a
+{
+    display: block;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-size: 30px;
+    padding: 5 0 ;
+}
+.hamburger
+{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    padding:10px;  
+    display: none;
+}
+.hamburger .line
+{
+    width: 35px;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 80%;
+    background-color: white;
+    height: 5px;
+    
+}
+
+@media only screen and (max-width:1920px)
+{
+    .nav
+    {
+        display: none;
+    }
+  
+    .hamburger
+    {
+        display: none;
+    }
+}
+
+@media only screen and (max-width:1200px)
+{
+    .navbar-text
+    {
+      display: none;
+    }
+
+    .input-group
+    {
+      display: none;
+    }
+   
+}
+
+.fejsbuk
+{
+  width: 190px;
+  height: 80px;
+  background: #4a639f;
+}
+
+.twitter
+{
+  width: 190px;
+  height: 80px;
+  background: rgb(0, 217, 255);
+  padding-left: 30px;
+}
+
+.viber
+{
+  width: 190px;
+  height: 80px;
+  background: #665cac;
+}
+
+.jabuka
+{
+  width: 190px;
+  height: 80px;
+  background: rgb(2, 0, 3);
+}
+
+.android
+{
+  width: 190px;
+  height: 80px;
+  background: #68b445;
+}
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+  
+  
+  
+
