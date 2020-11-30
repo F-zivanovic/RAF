@@ -1,1 +1,1 @@
-PHP aplikacija koja podrzava CRUD operacije, konekciju sa bazom, slanje podataka putem forme
+## PHP aplication which contains CRUD operations, connection with database, login and register for user
