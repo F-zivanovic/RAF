@@ -1,2 +1,2 @@
- PHP OOP aplikacija kojom se opisuje rad internet provajdera u Srbiji. 
- Aplikacija simulira kupovinu tarifnih dodataka, surfovanja, generisanja racuna itd. 
+ ## PHP OOP application that describes the ISP 
+ ## The application simulates the purchase of tariff add-ons, surfing, generating invoices, etc.
