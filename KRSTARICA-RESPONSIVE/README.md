@@ -1,1 +1,1 @@
-Kopija web portala Krtsarice. Projekat realizovan putem Bootstrap-a.
+## Fully responsive web-site. I used BOOTSTRAP framework
